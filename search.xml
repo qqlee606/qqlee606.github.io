@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title></title>
+    <url>%2F2018%2F10%2F17%2FHow-do-Chinese-people-look-at-English-Grammar%2Funcategorized%2F</url>
+    <content type="text"><![CDATA[title: How do Chinese people look at English Grammartags: Grammar The phenomenonAlways exist grammar errors. Cause comprehenssion difficulty or miss understanding. The importance of grammarA clearer and more graceful expression Lack of mother tongue environment, as a non-native speaker, grammar could help us learn it more efficient. The conflict of timeEven though people have already realised the important of grammar, listening and reading seem to be more important in the short term. Different pointsIs it understood the grammar regulation directly after listening and reading, or to learn grammar first and then to learn English in turn? How to learn Books: English Grammar in use; GMAT Sentence Correction; GMAT Sentence Correction Online grammar checker: grammarly. Ask for native-speaker: HiNative-APP. Easy or HardEnglish grammar system Hard: The leaves are not seen in trees. Easy: A simple grammar rules.]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[Basic Operation or Problems about Hexo]]></title>
     <url>%2F2018%2F04%2F07%2Fhello-world%2Funcategorized%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post123$ hexo new "My New Post"$ hexo server -p 3700$ hexo g -d More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
